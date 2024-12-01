@@ -1,7 +1,7 @@
 ### Olá, meu nome é Alisson Rodrigo 👋.
 ### Atualmente faço estudo de HTML, CSS, JavaScript e Java Orientado a Objeto, além de Modelagem de Software.
 ### Estudante de Desenvolvimento de software na Cubos Academy.
-### Graduando em Sistemas de Informações na Universidade Salvador (Unifacs).
+### Graduando em Engenharia de Software na Universidade Salvador (Unifacs).
 
 <!--
 **alissonrodri/alissonrodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
